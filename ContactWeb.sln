@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{28874303-0999-4710-A26D-84904EFF4FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{28874303-0999-4710-A26D-84904EFF4FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWebModels", "ContactWebModels\ContactWebModels.csproj", "{B73A6488-6AE3-4CB5-8FD2-AA426BF36CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{28874303-0999-4710-A26D-84904EFF4FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28874303-0999-4710-A26D-84904EFF4FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28874303-0999-4710-A26D-84904EFF4FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73A6488-6AE3-4CB5-8FD2-AA426BF36CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73A6488-6AE3-4CB5-8FD2-AA426BF36CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73A6488-6AE3-4CB5-8FD2-AA426BF36CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73A6488-6AE3-4CB5-8FD2-AA426BF36CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
